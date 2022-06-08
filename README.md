@@ -1,4 +1,3 @@
-��#� �A�p�p�L�i�d�e�r�
-�
-�
-.Net Core 5
+#AppLider
+
+#.Net Core 5
