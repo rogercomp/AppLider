@@ -4,4 +4,4 @@
 
 - .Net Core 5
 
--Padrao Strategy
+- Padrao Strategy
